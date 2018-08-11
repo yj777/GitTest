@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
   cout<<"hello word!"<<end1;
-  compare(1,2); 
+  compare(3,4); 
   return 0;
 }
 
