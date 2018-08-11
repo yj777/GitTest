@@ -9,7 +9,7 @@ int main()
   return 0;
 }
 
-tool compare(int a,int b)
+bool compare(int a,int b)
 {
   return a>b?true:false;
 }
